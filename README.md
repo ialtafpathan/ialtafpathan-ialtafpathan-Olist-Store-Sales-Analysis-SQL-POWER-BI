@@ -9,5 +9,15 @@ Several SQL queries were performed on the database to extract meaningful insight
 # Key Insights and Results
 
 # Sales Over View 
+![Screenshot (438)](https://github.com/user-attachments/assets/bdf52e70-cbb6-48ca-b623-d041f44fd577)
 
-![Uploading Screenshot (438).png…]()
+# Customer's & Sellers 
+![Screenshot (439)](https://github.com/user-attachments/assets/67439445-7a4e-46d5-874a-fac3c70f1a50)
+
+# Shipping & Paymnets
+![Screenshot (440)](https://github.com/user-attachments/assets/bc47cd71-99a8-48cc-a91f-6495014bf551)
+
+# Recomdations 
+
+
+
