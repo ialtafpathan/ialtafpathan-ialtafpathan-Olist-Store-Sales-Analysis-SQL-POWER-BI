@@ -21,7 +21,20 @@ Several SQL queries were performed on the database to extract meaningful insight
 # Sales Overview 
 Revenue & Profit: $16.01M total revenue, $2.41M total profit, with a 15.07% profit margin.
 Sales by Category: "Health & Beauty" and "Watches & Gifts" lead in revenue, while "Bed Bath & Table" leads in profit ($0.23M).
-Hourly Order Purchases: Highest between 10:00 AM to 9:00 pm, with peak orders at 6.6K.
+Hourly Order Purchases: Highest between 10:00 AM to 9:00 pm, with peak orders at 6.7K.
 Total Revenue Over Time: Steady growth, peaking at $2.9M in Q4 2018.
 
+# Payments & Shipping Time 
+Total Orders & Profit: 99K total orders, with a 15.07% profit margin and total sales of $16.01M.
+Delivery Status: 89.15% of orders are on time, with 7.87% being late.
+Order Status: 96K orders delivered, with smaller percentages for shipped, canceled, and processing orders.
+Average Shipping Time: Steadily decreased from 18.7 days in 2016 to 11.6 days in 2018.
+Payment Methods: Credit card dominates at 73.92%, followed by boleto at 19.04%.
+
+# Customers & Sellers 
+Total Customers & Sellers: 96K total customers, 3K total sellers, with an average of 1.03 customers per seller.
+Top 10 Cities with Most Sellers: São Paulo leads with 694 sellers, followed by Curitiba and Rio de Janeiro.
+Top 10 Cities with Most Customers: São Paulo has the highest number of customers (15.54K), followed by Rio de Janeiro and Belo Horizonte.
+Payment Methods: Credit card is the dominant payment method (54.25%), with Rio Grande do Sul showing the highest usage.
+Top & Bottom Sellers by Orders: The top 5 sellers have up to 21.42% of orders, while the bottom 5 sellers have as few as 3.79%.
 
