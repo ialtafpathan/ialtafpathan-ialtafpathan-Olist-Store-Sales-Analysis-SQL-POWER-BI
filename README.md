@@ -1,5 +1,13 @@
 # ialtafpathan-ialtafpathan-Olist-Store-Sales-Analysis-SQL-POWER-BI
-This repository contains an analysis of an e-commerce database using SQL and Power BI. The database consists of several tables: customer, sellers, order_review order_items_dataset, order_payments, orders, Geolocation and products. The data represents various aspects of an e-commerce business, such as customer information, order details, product information, and payment records.
+This repository contains an analysis of an e-commerce database using SQL and Power BI. The database consists of several tables: customer, sellers, order_review order_items_dataset, order_payments, orders, Geolocation, and products. The data represents various aspects of an e-commerce business, such as customer information, order details, product information, and payment records.
+
+# Steps Followed in this project
+1. Learned about the AIMS grid for project planning.
+2. I used MySQL to retrieve the data from the database and put it into Power BI.
+3. Data Cleaning in power query.
+4. Performed ETL process (Extract Transform and Load)
+5. Created needs measures and used them to create visuals in PowerBi.
+6. Data Modelling and Visualization.
 
 
 # Queries
@@ -19,10 +27,10 @@ Several SQL queries were performed on the database to extract meaningful insight
 
 # Recomdations 
 # Sales Overview 
-Revenue & Profit: $16.01M total revenue, $2.41M total profit, with a 15.07% profit margin.
-Sales by Category: "Health & Beauty" and "Watches & Gifts" lead in revenue, while "Bed Bath & Table" leads in profit ($0.23M).
-Hourly Order Purchases: Highest between 10:00 AM to 9:00 pm, with peak orders at 6.7K.
-Total Revenue Over Time: Steady growth, peaking at $2.9M in Q4 2018.
+ Revenue & Profit: $16.01M total revenue, $2.41M total profit, with a 15.07% profit margin.
+ Sales by Category: "Health & Beauty" and "Watches & Gifts" lead in revenue, while "Bed Bath & Table" leads in profit ($0.23M).
+ Hourly Order Purchases: Highest between 10:00 AM to 9:00 pm, with peak orders at 6.7K.
+ Total Revenue Over Time: Steady growth, peaking at $2.9M in Q4 2018.
 
 # Payments & Shipping Time 
 Total Orders & Profit: 99K total orders, with a 15.07% profit margin and total sales of $16.01M.
